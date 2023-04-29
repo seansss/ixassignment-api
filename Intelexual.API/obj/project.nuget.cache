@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VF45usYMCYahVdnboXvkTWmMZR1pePxR2QkpRqrikCuICQ8YuRTUGCokaMBG3dEai4MhdinZzsDtE/1b75vxPg==",
+  "dgSpecHash": "mmilFJPr++jiXCKHX0oqrvf846mpi3HPASCXLHnSehfukwxLi7xVDHK+slxV3VBjBuR5xIH3nd5Zl0bujjtNOQ==",
   "success": true,
-  "projectFilePath": "/Users/sean/Development/InteleXual/Intelexual/Intelexual.API/Intelexual.API.csproj",
+  "projectFilePath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Intelexual.API/Intelexual.API.csproj",
   "expectedPackageFiles": [
     "/Users/sean/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/sean/.nuget/packages/microsoft.entityframeworkcore/6.0.16/microsoft.entityframeworkcore.6.0.16.nupkg.sha512",

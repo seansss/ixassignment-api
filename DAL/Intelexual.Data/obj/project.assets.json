@@ -790,11 +790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/Intelexual.Data.csproj",
+      "projectUniqueName": "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/Intelexual.Data.csproj",
       "projectName": "Intelexual.Data",
-      "projectPath": "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/Intelexual.Data.csproj",
+      "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/Intelexual.Data.csproj",
       "packagesPath": "/Users/sean/.nuget/packages/",
-      "outputPath": "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/obj/",
+      "outputPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sean/.nuget/NuGet/NuGet.Config"

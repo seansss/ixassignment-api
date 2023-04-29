@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
+      "projectUniqueName": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
       "projectName": "Intelexual.DTO",
-      "projectPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
+      "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
       "packagesPath": "/Users/sean/.nuget/packages/",
-      "outputPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/obj/",
+      "outputPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sean/.nuget/NuGet/NuGet.Config"

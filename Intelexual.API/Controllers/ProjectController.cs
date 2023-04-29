@@ -19,18 +19,6 @@ namespace Intelexual.API.Controllers
             this._projectService = projectService;
         }
 
-        [HttpGet("Query")]
-        public async Task<JsonResult> Get([FromQuery] string? filters)
-        {
-            if (filters != null)
-            {
-                List<Filter> filtersobj = JsonConvert.DeserializeObject<List<Filter>>(filters);
-            }
-
-            return new JsonResult("FAILED");
-        }
-
-
         [HttpGet("projects")]
         public async Task<JsonResult> Get([FromQuery] int? start, [FromQuery] int? size, [FromQuery] string? filters, [FromQuery] string? sorting)
         {
@@ -102,7 +90,7 @@ namespace Intelexual.API.Controllers
         }
 
 
-        [HttpGet]
+        [HttpGet("all")]
         public async Task<JsonResult> GetAll()
         {
             HttpCoreResponse<List<ProjectDTO>> response = new HttpCoreResponse<List<ProjectDTO>>();

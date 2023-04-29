@@ -1,0 +1,12 @@
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/bin/Debug/net6.0/Intelexual.DTO.deps.json
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/bin/Debug/net6.0/Intelexual.DTO.dll
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/bin/Debug/net6.0/Intelexual.DTO.pdb
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/Intelexual.DTO.csproj.AssemblyReference.cache
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/Intelexual.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/Intelexual.DTO.AssemblyInfoInputs.cache
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/Intelexual.DTO.AssemblyInfo.cs
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/Intelexual.DTO.csproj.CoreCompileInputs.cache
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/Intelexual.DTO.dll
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/refint/Intelexual.DTO.dll
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/Intelexual.DTO.pdb
+/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/Debug/net6.0/ref/Intelexual.DTO.dll

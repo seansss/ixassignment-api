@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sean/Development/InteleXual/Intelexual/SAL/Intelexual.DataService/Intelexual.DataService.csproj": {}
+    "/Users/sean/Development/InteleXual/github/ixassignment-api/SAL/Intelexual.DataService/Intelexual.DataService.csproj": {}
   },
   "projects": {
-    "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/Intelexual.Data.csproj": {
+    "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/Intelexual.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/Intelexual.Data.csproj",
+        "projectUniqueName": "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/Intelexual.Data.csproj",
         "projectName": "Intelexual.Data",
-        "projectPath": "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/Intelexual.Data.csproj",
+        "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/Intelexual.Data.csproj",
         "packagesPath": "/Users/sean/.nuget/packages/",
-        "outputPath": "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/obj/",
+        "outputPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sean/.nuget/NuGet/NuGet.Config"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "/Users/sean/Development/InteleXual/Intelexual/SAL/Intelexual.DataService/Intelexual.DataService.csproj": {
+    "/Users/sean/Development/InteleXual/github/ixassignment-api/SAL/Intelexual.DataService/Intelexual.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sean/Development/InteleXual/Intelexual/SAL/Intelexual.DataService/Intelexual.DataService.csproj",
+        "projectUniqueName": "/Users/sean/Development/InteleXual/github/ixassignment-api/SAL/Intelexual.DataService/Intelexual.DataService.csproj",
         "projectName": "Intelexual.DataService",
-        "projectPath": "/Users/sean/Development/InteleXual/Intelexual/SAL/Intelexual.DataService/Intelexual.DataService.csproj",
+        "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/SAL/Intelexual.DataService/Intelexual.DataService.csproj",
         "packagesPath": "/Users/sean/.nuget/packages/",
-        "outputPath": "/Users/sean/Development/InteleXual/Intelexual/SAL/Intelexual.DataService/obj/",
+        "outputPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/SAL/Intelexual.DataService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sean/.nuget/NuGet/NuGet.Config"
@@ -95,14 +95,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/Intelexual.Data.csproj": {
-                "projectPath": "/Users/sean/Development/InteleXual/Intelexual/DAL/Intelexual.Data/Intelexual.Data.csproj"
+              "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/Intelexual.Data.csproj": {
+                "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/Intelexual.Data.csproj"
               },
-              "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj": {
-                "projectPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj"
+              "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj": {
+                "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj"
               },
-              "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.Interface/Intelexual.Interface.csproj": {
-                "projectPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.Interface/Intelexual.Interface.csproj"
+              "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.Interface/Intelexual.Interface.csproj": {
+                "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.Interface/Intelexual.Interface.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj": {
+    "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
+        "projectUniqueName": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
         "projectName": "Intelexual.DTO",
-        "projectPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
+        "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
         "packagesPath": "/Users/sean/.nuget/packages/",
-        "outputPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/obj/",
+        "outputPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sean/.nuget/NuGet/NuGet.Config"
@@ -189,14 +189,14 @@
         }
       }
     },
-    "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.Interface/Intelexual.Interface.csproj": {
+    "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.Interface/Intelexual.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.Interface/Intelexual.Interface.csproj",
+        "projectUniqueName": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.Interface/Intelexual.Interface.csproj",
         "projectName": "Intelexual.Interface",
-        "projectPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.Interface/Intelexual.Interface.csproj",
+        "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.Interface/Intelexual.Interface.csproj",
         "packagesPath": "/Users/sean/.nuget/packages/",
-        "outputPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.Interface/obj/",
+        "outputPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.Interface/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sean/.nuget/NuGet/NuGet.Config"
@@ -211,8 +211,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj": {
-                "projectPath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj"
+              "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj": {
+                "projectPath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj"
               }
             }
           }

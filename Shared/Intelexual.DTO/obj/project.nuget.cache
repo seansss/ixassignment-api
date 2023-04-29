@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lg2z+1oRRYQIfKjI3epOmRuWLo8ggDCEnr3kK0iz4JI75ff7+9i/faG/yvN1ecLFXZPLU5ljQLmjau9r44fozw==",
+  "dgSpecHash": "rcs8mIXk22FCR/LuIfZGeasHWLp7+OwTabZotibs2d/O8bU2M7Z/Pepq5v9W+20R3HygQlZkVb0JGn69fzjaRw==",
   "success": true,
-  "projectFilePath": "/Users/sean/Development/InteleXual/Intelexual/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
+  "projectFilePath": "/Users/sean/Development/InteleXual/github/ixassignment-api/Shared/Intelexual.DTO/Intelexual.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

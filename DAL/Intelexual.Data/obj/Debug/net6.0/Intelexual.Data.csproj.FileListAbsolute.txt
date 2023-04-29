@@ -1,0 +1,14 @@
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/bin/Debug/net6.0/Intelexual.Data.deps.json
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/bin/Debug/net6.0/Intelexual.Data.runtimeconfig.json
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/bin/Debug/net6.0/Intelexual.Data.dll
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/bin/Debug/net6.0/Intelexual.Data.pdb
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/Intelexual.Data.csproj.AssemblyReference.cache
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/Intelexual.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/Intelexual.Data.AssemblyInfoInputs.cache
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/Intelexual.Data.AssemblyInfo.cs
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/Intelexual.Data.csproj.CoreCompileInputs.cache
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/Intelexual.Data.dll
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/refint/Intelexual.Data.dll
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/Intelexual.Data.pdb
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/Intelexual.Data.genruntimeconfig.cache
+/Users/sean/Development/InteleXual/github/ixassignment-api/DAL/Intelexual.Data/obj/Debug/net6.0/ref/Intelexual.Data.dll
