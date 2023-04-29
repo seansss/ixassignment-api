@@ -85,13 +85,13 @@ namespace Intelexual.API.Migrations
                                 fakeProject.Files = new List<Data.Models.IXFile>();
                                 foreach (var mimeType in fileMimeTypes)
                                 {
-                                    for (int i = 1; i < 2; i++)
+                                    for (int y = 1; y < 3; y++)
                                     {
                                         fakeProject.Files.Add(new Data.Models.IXFile()
                                         {
-                                             FilePath = $"https://via.placeholder.com/{num * i}x{num}",
+                                             FilePath = $"https://via.placeholder.com/{num * y}x{num}",
                                               Id = Guid.NewGuid(),
-                                               Name = $"{projectName}_{i}",
+                                               Name = $"{projectName}_{y}_{mimeType.Replace("/", "_")}",
                                                Type = mimeType
                                         });
                                     }
