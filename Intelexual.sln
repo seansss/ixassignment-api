@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelexual.API", "Intelexual.API\Intelexual.API.csproj", "{9B91579E-914B-4D97-A2ED-B12C313A7BC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{5EF58246-E802-4F08-B3F1-FFCA58415A9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SAL", "SAL", "{40C39411-995C-4133-A3B7-9164B7D1F950}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{4294E21F-0B72-4355-987A-73D01C4D3DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelexual.Data", "DAL\Intelexual.Data\Intelexual.Data.csproj", "{EF3BC1C6-1619-40AE-AC76-600781B8D112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelexual.Interface", "Shared\Intelexual.Interface\Intelexual.Interface.csproj", "{F2CA49FF-C00F-4303-990A-8D2692688831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelexual.DTO", "Shared\Intelexual.DTO\Intelexual.DTO.csproj", "{98E954C4-D9F1-40C8-A548-ACC055CFB315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelexual.DataService", "SAL\Intelexual.DataService\Intelexual.DataService.csproj", "{239D9ED3-21DC-4214-AD65-DB627898C519}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{154178D6-F240-4E1D-8E4F-ADA1B21450AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B91579E-914B-4D97-A2ED-B12C313A7BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B91579E-914B-4D97-A2ED-B12C313A7BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B91579E-914B-4D97-A2ED-B12C313A7BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B91579E-914B-4D97-A2ED-B12C313A7BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3BC1C6-1619-40AE-AC76-600781B8D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3BC1C6-1619-40AE-AC76-600781B8D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3BC1C6-1619-40AE-AC76-600781B8D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3BC1C6-1619-40AE-AC76-600781B8D112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CA49FF-C00F-4303-990A-8D2692688831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CA49FF-C00F-4303-990A-8D2692688831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CA49FF-C00F-4303-990A-8D2692688831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CA49FF-C00F-4303-990A-8D2692688831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E954C4-D9F1-40C8-A548-ACC055CFB315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E954C4-D9F1-40C8-A548-ACC055CFB315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E954C4-D9F1-40C8-A548-ACC055CFB315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E954C4-D9F1-40C8-A548-ACC055CFB315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239D9ED3-21DC-4214-AD65-DB627898C519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239D9ED3-21DC-4214-AD65-DB627898C519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239D9ED3-21DC-4214-AD65-DB627898C519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239D9ED3-21DC-4214-AD65-DB627898C519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78C0CAF-E0C5-4247-8078-44F9F080AD00}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF3BC1C6-1619-40AE-AC76-600781B8D112} = {5EF58246-E802-4F08-B3F1-FFCA58415A9B}
+		{F2CA49FF-C00F-4303-990A-8D2692688831} = {4294E21F-0B72-4355-987A-73D01C4D3DF9}
+		{98E954C4-D9F1-40C8-A548-ACC055CFB315} = {4294E21F-0B72-4355-987A-73D01C4D3DF9}
+		{239D9ED3-21DC-4214-AD65-DB627898C519} = {40C39411-995C-4133-A3B7-9164B7D1F950}
+	EndGlobalSection
+EndGlobal
